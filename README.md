@@ -1,4 +1,4 @@
-# Capstone_Real-time_Braille_Scanner
+# CAPSTONE_REAL-TIME_BRAILLE_SCANNER
 Univ.
 
 캡스톤프로젝트 (3학년)
